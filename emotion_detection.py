@@ -21,7 +21,7 @@ DURATION = 5  # seconds for recording
 MODEL_PATH = 'emotion_model.pkl'
 SCALER_PATH = 'scaler.pkl'
 SESSION_DATA_PATH = 'session_data.csv'
-ZIP_PATH = r'C:\Users\ssrnd\Downloads\archive (8).zip'  # Your provided zip file path
+ZIP_PATH = r'C:\Users\ssrnd\Downloads\archive (8).zip'  
 
 # Extract zip file
 def extract_zip(zip_path, extract_path='ravdess'):
